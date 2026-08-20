@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/admn.js":   { "maxDuration": 10 },
+    "api/stream.js": { "maxDuration": 60 }
+  }
+}
